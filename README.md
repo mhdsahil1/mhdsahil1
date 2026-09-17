@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii-profile.svg" width="900" alt="Muhammed Sahil ASCII portrait"/>
+<img src="./ascii-profile.svg" width="1000" alt="Muhammed Sahil ASCII portrait"/>
 
 <img src="./stats.svg" width="620" alt="GitHub activity in the last year"/>
 
@@ -13,7 +13,7 @@
 <img src="./hd-about.svg" width="620" alt="about"/>
 
 > B.Tech Computer Science & Cyber Security student from Mangalore, building security tools and full-stack applications.
-> 
+>
 > I like systems that are useful, inspectable, and slightly over-engineered when the alternative is boring.
 
 Right now I'm working across cybersecurity, full-stack development, threat intelligence, and the occasional low-level experiment. The current collection includes **XEROVA**, **Zline**, **BALLON**, and **Nyota OS**.
