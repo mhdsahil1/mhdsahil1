@@ -1,26 +1,59 @@
 <div align="center">
 
-<img src="stats.svg" alt="GitHub contribution summary" width="900">
+<img src="./portrait.svg" width="620" alt="Muhammed Sahil ASCII portrait"/>
 
-<img src="portrait.svg" alt="ASCII portrait of Muhammed Sahil" width="900">
+<img src="./stats.svg" width="620" alt="GitHub activity in the last year"/>
+
+[github.com/mhdsahil1](https://github.com/mhdsahil1) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/mhdsahil09/) &nbsp;·&nbsp;
+[portfolio](https://v0-sahil-dev.vercel.app/)
 
 </div>
 
-> Computer Science & Cyber Security student building security tools, full-stack apps, and occasionally questionable amounts of SVG.
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-## Projects
+> B.Tech Computer Science & Cyber Security student from Mangalore, building security tools and full-stack applications.
+> 
+> I like systems that are useful, inspectable, and slightly over-engineered when the alternative is boring.
 
-- **XEROVA** - Threat intelligence and cybersecurity investigation platform
-- **Zline** - End-to-end encrypted chat application
-- **BALLON** - Football transfer intelligence and valuation engine
-- **Nyota OS** - Hobby operating-system project
+Right now I'm working across cybersecurity, full-stack development, threat intelligence, and the occasional low-level experiment. The current collection includes **XEROVA**, **Zline**, **BALLON**, and **Nyota OS**.
 
-## Stack
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
-TypeScript · React · Next.js · Python · FastAPI · MongoDB · Linux · Cybersecurity
+<samp>typescript &nbsp; javascript &nbsp; react &nbsp; next.js &nbsp; python &nbsp; fastapi &nbsp; mongodb &nbsp; linux &nbsp; git &nbsp; cybersecurity</samp>
 
-## Activity
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
-<img src="year.svg" alt="Contribution activity for the last year" width="900">
+**[XEROVA](https://xerova-lab.vercel.app/)** &nbsp;·&nbsp; <samp>next.js, react, typescript, mongodb</samp><br>
+Threat intelligence and cybersecurity investigation platform integrating IOC analysis, reputation sources, and security intelligence workflows.
 
-<p align="center">Generated automatically from this repository · no external stats widgets</p>
+**Zline** &nbsp;·&nbsp; <samp>next.js, mongodb, socket.io, cryptography</samp><br>
+End-to-end encrypted chat application with messaging, media, reactions, editing, deletion, and real-time calling infrastructure.
+
+**BALLON** &nbsp;·&nbsp; <samp>python, fastapi, next.js, machine learning</samp><br>
+Football transfer intelligence and player valuation engine combining football data with a valuation model.
+
+**Nyota OS** &nbsp;·&nbsp; <samp>c, x86, nasm, qemu, linux</samp><br>
+A hobby operating-system project built from the boot sector upward, because apparently writing software that already exists wasn't sufficiently difficult.
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
+
+<div align="center">
+
+<img src="./streak.svg" width="620" alt="current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="top languages"/>
+
+<img src="./year.svg" width="620" alt="the last year as a character map"/>
+
+</div>
+
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+
+Every graphic here is generated locally in this repository. The contribution, streak, language, and yearly activity graphics are generated from the GitHub GraphQL API by a scheduled GitHub Action.
+
+The graphics are SVGs so the README does not depend on an external stats-card service. They also use SMIL animation rather than JavaScript, since GitHub strips scripts from rendered README content.
+
+The portrait is an animated SVG and the profile graphics are regenerated daily. The workflow commits only generated files when their contents actually change.
+
+Language totals are calculated from public, non-fork repositories owned by this account.
