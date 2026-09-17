@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="697" height="580" viewBox="0 0 697 580">
+<defs>
+<clipPath id="r0"><rect x="0" y="0" width="0" height="16.2"><animate attributeName="width" from="0" to="696.6" dur="0.55s" begin="0.00s" fill="freeze"/></rect></clipPath>
+<clipPath id="r1"><rect x="0" y="15.2" width="0" height="16.2"><animate attributeName="width" from="0" to="696.6" dur="0.55s" begin="0.09s" fill="freeze"/></rect></clipPath>
+<clipPath id="r2"><rect x="0" y="30.4" width="0" height="16.2"><animate attributeName="width" from="0" to="696.6" dur="0.55s" begin="0.18s" fill="freeze"/></rect></clipPath>
+<clipPath id="r3"><rect x="0" y="45.6" width="0" height="16.2"><animate attributeName="width" from="0" to="696.6" dur="0.55s" begin="0.27s" fill="freeze"/></rect></clipPath>
+<clipPath id="r4"><rect x="0" y="60.8" width="0" height="16.2"><animate attributeName="width" from="0" to="696.6" dur="0.55s" begin="0.36s" fill="freeze"/></rect></clipPath>
+</defs>
+<g font-family="monospace" font-size="12.9" fill="#111" xml:space="preserve">
+<text x="0" y="15.2" clip-path="url(#r0)">                              ... placeholder ...</text>
+<text x="0" y="30.4" clip-path="url(#r1)">                         .:-=+*#%@@%#*+=-:. </text>
+<text x="0" y="45.6" clip-path="url(#r2)">                    .-=*#@@@@@@@@@@@@@@#*=-.   </text>
+<text x="0" y="60.8" clip-path="url(#r3)">                  :=*%@@@@@@@@@@@@@@@@@@%*=:     </text>
+<text x="0" y="76.0" clip-path="url(#r4)">                .*%@@@@@@@@@@@@@@@@@@@@@@@@%*.   </text>
+</g>
+</svg>
