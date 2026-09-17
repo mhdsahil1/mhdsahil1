@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./portrait-dark.svg" width="620" alt="Muhammed Sahil ASCII portrait"/>
+<img src="./ascii-profile.svg" width="765" alt="Muhammed Sahil ASCII portrait"/>
 
 <img src="./stats.svg" width="620" alt="GitHub activity in the last year"/>
 
@@ -50,10 +50,10 @@ A hobby operating-system project built from the boot sector upward, because appa
 
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-Every graphic here is generated locally in this repository. The contribution, streak, language, yearly activity, and dark-mode portrait graphics are generated from the GitHub GraphQL API or the existing portrait source by a scheduled GitHub Action.
+Every graphic here is generated locally in this repository. The contribution, streak, language, yearly activity, and ASCII portrait graphics are generated from the GitHub GraphQL API or the supplied portrait source by a scheduled GitHub Action.
 
 The graphics are SVGs so the README does not depend on an external stats-card service. They use SVG-native rendering rather than JavaScript, since GitHub strips scripts from rendered README content.
 
-The portrait remains animated, while the profile graphics are regenerated daily. The workflow commits only generated files when their contents actually change.
+The ASCII portrait is stored as a separate file so GitHub cannot keep serving the previous portrait asset from its cache. The workflow commits only generated files when their contents actually change.
 
 Language totals are calculated from public, non-fork repositories owned by this account.
