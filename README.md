@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii-profile.svg" width="765" alt="Muhammed Sahil ASCII portrait"/>
+<img src="./ascii-profile.svg" width="900" alt="Muhammed Sahil ASCII portrait"/>
 
 <img src="./stats.svg" width="620" alt="GitHub activity in the last year"/>
 
