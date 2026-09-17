@@ -6,9 +6,7 @@
 
 </div>
 
-<blockquote>
-Computer Science & Cyber Security student building security tools, full-stack apps, and occasionally questionable amounts of SVG.
-</blockquote>
+> Computer Science & Cyber Security student building security tools, full-stack apps, and occasionally questionable amounts of SVG.
 
 ## projects
 
