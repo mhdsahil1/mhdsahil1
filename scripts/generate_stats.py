@@ -43,6 +43,15 @@ def text(x,y,s,size=12,c="d",anchor="start",weight="400"):
 def write(name,body,h):
     with open(os.path.join(OUT,name),"w",encoding="utf-8") as f:f.write(wrap(body,h))
 
+def make_portrait():
+    source=os.path.join(OUT,"portrait.svg")
+    target=os.path.join(OUT,"portrait-dark.svg")
+    if not os.path.exists(source):
+        return
+    with open(source,"r",encoding="utf-8") as f:svg=f.read()
+    svg=svg.replace('fill="#111"','fill="#f0f6fc"')
+    with open(target,"w",encoding="utf-8") as f:f.write(svg)
+
 def headings():
     for word in ["about","stack","projects","stats","about this page"]:
         x=18+len(word)*9.6; write("hd-"+word.replace(" ","-")+".svg",text(0,18,word,16,"e",weight="600")+f'<line x1="{x:.0f}" y1="12" x2="{W}" y2="12" class="r"/>',26)
@@ -67,5 +76,6 @@ def main():
     ramp=" .:-=+*#%@"; mx=max([d["contributionCount"] for d in days] or [1]); chars=[ramp[min(len(ramp)-1,int((d["contributionCount"]/mx)*(len(ramp)-1)))] for d in days]; rows=["".join(chars[i:i+73]) for i in range(0,len(chars),73)]
     body=text(0,18,"THE YEAR",9,"m")+text(0,33,"one character per day · quiet to loud",10,"m")+''.join(f'<text x="0" y="{51+i*12}" font-size="9" class="d" xml:space="preserve">{esc(r)}</text>' for i,r in enumerate(rows)); write("year.svg",body,60+len(rows)*12)
     headings()
+    make_portrait()
     print(f"{cal['totalContributions']} contributions · current {current} · longest {longest}")
 if __name__=="__main__":main()
