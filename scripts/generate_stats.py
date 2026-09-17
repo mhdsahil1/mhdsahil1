@@ -44,13 +44,9 @@ def write(name,body,h):
     with open(os.path.join(OUT,name),"w",encoding="utf-8") as f:f.write(wrap(body,h))
 
 def make_portrait():
-    source=os.path.join(OUT,"portrait.svg")
-    target=os.path.join(OUT,"portrait-dark.svg")
-    if not os.path.exists(source):
-        return
-    with open(source,"r",encoding="utf-8") as f:svg=f.read()
-    svg=svg.replace('fill="#111"','fill="#f0f6fc"')
-    with open(target,"w",encoding="utf-8") as f:f.write(svg)
+    # portrait-dark.svg is a hand-tuned ASCII rendering of the profile photo.
+    # Keep it stable across scheduled stat refreshes.
+    return
 
 def headings():
     for word in ["about","stack","projects","stats","about this page"]:
