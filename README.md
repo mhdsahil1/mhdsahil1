@@ -8,19 +8,19 @@
 
 > Computer Science & Cyber Security student building security tools, full-stack apps, and occasionally questionable amounts of SVG.
 
-## projects
+## Projects
 
-- <samp>XEROVA</samp> — threat intelligence and cybersecurity investigation platform
-- <samp>Zline</samp> — end-to-end encrypted chat application
-- <samp>BALLON</samp> — football transfer intelligence and valuation engine
-- <samp>Nyota OS</samp> — hobby operating-system project
+- **XEROVA** - Threat intelligence and cybersecurity investigation platform
+- **Zline** - End-to-end encrypted chat application
+- **BALLON** - Football transfer intelligence and valuation engine
+- **Nyota OS** - Hobby operating-system project
 
-## stack
+## Stack
 
-<samp>TypeScript · React · Next.js · Python · FastAPI · MongoDB · Linux · Cybersecurity</samp>
+TypeScript · React · Next.js · Python · FastAPI · MongoDB · Linux · Cybersecurity
 
-## activity
+## Activity
 
 <img src="year.svg" alt="Contribution activity for the last year" width="900">
 
-<p align="center"><samp>generated automatically from this repository · no external stats widgets</samp></p>
+<p align="center">Generated automatically from this repository · no external stats widgets</p>
