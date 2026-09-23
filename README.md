@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="Muhammed Sahil - Cybersecurity Engineer and Full-Stack Developer"/>
+<img src="./hero.png" width="100%" alt="Muhammed Sahil - Cybersecurity Engineer and Full-Stack Developer"/>
 
 <br>
 
