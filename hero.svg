@@ -30,7 +30,7 @@
 <g transform="translate(610,82)">
  <rect x="0" y="0" width="420" height="420" rx="12" fill="#050806" stroke="#66B78B" stroke-opacity=".18"/>
  <text x="16" y="24" class="mono muted" font-size="9">IDENTITY // ASCII RENDER</text>
- <g transform="translate(24,42)" class="mono" font-size="7.2" letter-spacing=".12" fill="#66B78B" xml:space="preserve">
+ <g transform="translate(82,42)" class="mono" font-size="7.2" letter-spacing=".12" fill="#66B78B" xml:space="preserve">
 <text x="0" y="0.0">             ⠒⠖⠴⠴⠖⠦</text>
 <text x="0" y="8.0">           ⠦⠖⠖⠖⠖⠒⠒⠒⠖⠦⠖</text>
 <text x="0" y="16.0">          ⠖⠖⠖⠦⠒⠆⠆⠒⠆⠆⠖⠦⠦</text>
