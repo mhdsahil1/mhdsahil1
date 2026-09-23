@@ -56,7 +56,7 @@ A security-focused platform for threat intelligence and investigation workflows,
 
 `Next.js` `React` `TypeScript` `MongoDB` `VirusTotal` `AbuseIPDB` `Shodan`
 
-**Live:** [xerova-lab.vercel.app](https://xerova-lab.vercel.app/)
+**Live:** [xerova](https://xerova-lab.vercel.app/)
 
 ---
 
@@ -87,6 +87,8 @@ A local pass-and-play imposter game built with Flutter, featuring configurable g
 A real-time communication application focused on private messaging, media, reactions, editing, deletion, and encrypted communication infrastructure.
 
 `Next.js` `React` `TypeScript` `MongoDB` `Socket.IO` `Cryptography`
+
+**Live:** [Zline](https://zline.vercel.app/)
 
 ---
 
