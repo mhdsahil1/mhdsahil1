@@ -6,7 +6,7 @@ LOGIN=os.environ.get("GH_LOGIN","mhdsahil1")
 TOKEN=os.environ.get("GITHUB_TOKEN")
 OUT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 W=620
-LIGHT="#6e7681"; DARK="#c9d1d9"
+LIGHT="#66B78B"; DARK="#66B78B"
 Q='''query($login:String!,$from:DateTime!,$to:DateTime!){user(login:$login){contributionsCollection(from:$from,to:$to){contributionCalendar{totalContributions weeks{contributionDays{date contributionCount weekday}}}} repositories(first:100,ownerAffiliations:OWNER,privacy:PUBLIC,isFork:false){nodes{name languages(first:12,orderBy:{field:SIZE,direction:DESC}){edges{size node{name}}}}}}}'''
 
 def gql(v):
