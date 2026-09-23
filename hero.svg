@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560">
 <defs>
  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#070b09"/><stop offset="1" stop-color="#0c1511"/></linearGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
  <style>
-  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
-  .g{fill:#66B78B}.muted{fill:#86a493}.white{fill:#eef7f1}.line{stroke:#66B78B;stroke-opacity:.22}
+ .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+ .dots{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:7.2px;fill:#66B78B;white-space:pre}
+ .g{fill:#66B78B}.muted{fill:#86a493}.white{fill:#eef7f1}.line{stroke:#66B78B;stroke-opacity:.22}
  </style>
 </defs>
 <rect width="1100" height="560" rx="18" fill="url(#bg)"/>
@@ -19,19 +19,78 @@
 <text x="62" y="141" class="mono white" font-size="30" font-weight="700">MUHAMMED SAHIL</text>
 <text x="62" y="174" class="mono muted" font-size="16">Cybersecurity Engineer &amp; Full-Stack Developer</text>
 <text x="62" y="217" class="mono g" font-size="15">$ focus --current</text>
-<text x="62" y="245" class="mono white" font-size="14">security  /  full-stack  /  systems  /  AI</text>
+<text x="62" y="245" class="mono white" font-size="14">security / full-stack / systems / AI</text>
 <text x="62" y="288" class="mono g" font-size="15">$ status</text>
 <text x="62" y="316" class="mono muted" font-size="13">building systems that are useful, inspectable,</text>
 <text x="62" y="338" class="mono muted" font-size="13">and occasionally more over-engineered than necessary.</text>
 <text x="62" y="388" class="mono g" font-size="15">$ ls featured-projects</text>
-<text x="62" y="418" class="mono white" font-size="13">XEROVA   NYOTA-OS   WHO-KNOWS   ZLINE   BALLON</text>
+<text x="62" y="418" class="mono white" font-size="13">XEROVA  NYOTA-OS  WHO-KNOWS  ZLINE  BALLON</text>
 <text x="62" y="468" class="mono g" font-size="15">$ _</text>
-<rect x="80" y="457" width="9" height="18" fill="#66B78B" opacity=".9"><animate attributeName="opacity" values=".15;1;.15" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="80" y="457" width="9" height="18" fill="#66B78B" opacity=".9"/>
 <g transform="translate(610,82)">
  <rect x="0" y="0" width="420" height="420" rx="12" fill="#050806" stroke="#66B78B" stroke-opacity=".18"/>
- <text x="16" y="24" class="mono muted" font-size="9">IDENTITY // ASCII RENDER</text>
- <image x="54" y="42" width="312" height="354" preserveAspectRatio="xMidYMid meet" href="./assets/sahil-portrait.png"/>
+ <text x="16" y="24" class="mono muted" font-size="9">IDENTITY // DOT MATRIX RENDER</text>
+ <text x="18" y="48" class="mono muted" font-size="8">ORIGINAL PORTRAIT // GENERATED FROM SAHIL'S PHOTO</text>
+ <g transform="translate(0,40)">
+<text x="70" y="52" class="dots">                       ●●•···••</text>
+<text x="70" y="59.2" class="dots">                    ••●●●•··•●●●·  •</text>
+<text x="70" y="66.4" class="dots">                  •••●●●●●●●●●●●●●•·•●</text>
+<text x="70" y="73.6" class="dots">                 ●●•●●••●●●●●●●●●●●••••</text>
+<text x="70" y="80.8" class="dots">                 ●●●●•••●●●●●●●●●●●●●•··</text>
+<text x="70" y="88" class="dots">                ●●●●●●●●●••●●●●●●••●●●•••</text>
+<text x="70" y="95.2" class="dots">               ●●●●●●●●●●●●●●●•●●●•●●●●●●</text>
+<text x="70" y="102.4" class="dots">               ●●●●●●●●●•●●•●●●●●●●●●●●● •</text>
+<text x="70" y="109.6" class="dots">               ●●●●●●●●··••·●•••●●●●●●●●●●</text>
+<text x="70" y="116.8" class="dots">                ●●●●●●••●··•●●•●●●●●●●●●●</text>
+<text x="70" y="124" class="dots">                 ●●●●●●●●●●●●●●●●●●●●●</text>
+<text x="70" y="131.2" class="dots">                 ●●●●●●●●•·●●●●●●●●●●●•</text>
+<text x="70" y="138.4" class="dots">                 ●●••●●●•. •●●•··••●●●•</text>
+<text x="70" y="145.60000000000002" class="dots">                  ●··.·•. ..·•  ··•●●•</text>
+<text x="70" y="152.8" class="dots">                  •···•●•●•●•••·•••●●•</text>
+<text x="70" y="160" class="dots">                  ●●•●●•●●●●●·●●•••●•</text>
+<text x="70" y="167.2" class="dots">                  ●●●●●●●•••●●●●•••●</text>
+<text x="70" y="174.4" class="dots">                   ●•●●●•••••●●●••●●</text>
+<text x="70" y="181.6" class="dots">                   ●●●●●●●●●●●●••●●•</text>
+<text x="70" y="188.8" class="dots">                    ●●●●●●●●●●●●●●●·</text>
+<text x="70" y="196" class="dots">                     •●●●●●●●●●●●●●.</text>
+<text x="70" y="203.20000000000002" class="dots">                     ·●●●●●●●●●●●●•</text>
+<text x="70" y="210.4" class="dots">                     ·●●●●●●●●●●●●·</text>
+<text x="70" y="217.6" class="dots">                     ·●●●●●●●●●●●·.</text>
+<text x="70" y="224.8" class="dots">                   ..·●●●●●●●●●●·.··...</text>
+<text x="70" y="232" class="dots">                  .···•●●●●●●●●·.·····..</text>
+<text x="70" y="239.20000000000002" class="dots">                  ..··.·●●●●●·..······.</text>
+<text x="70" y="246.4" class="dots">                   ....·.●●······.</text>
+<text x="70" y="253.6" class="dots">                   ......·······</text>
+<text x="70" y="260.8" class="dots">                    .....·····.</text>
+<text x="70" y="268" class="dots">           .        ....·····.                    .      .</text>
+<text x="70" y="275.20000000000005" class="dots">          .          .. .···                 .   .</text>
+<text x="70" y="282.4" class="dots">                          ·.                ..  .·</text>
+<text x="70" y="289.6" class="dots">         .                .                 .. .·.</text>
+<text x="70" y="296.8" class="dots">         ....                              .··.··    .</text>
+<text x="70" y="304" class="dots">          ··.                             ..····   ..</text>
+<text x="70" y="311.2" class="dots">          ··.       .                     .·····  ..</text>
+<text x="70" y="318.40000000000003" class="dots">        . .·..·.  .·                  ..  .····· ...</text>
+<text x="70" y="325.6" class="dots">      .  ·.·.··...·.                      .···•. ..     .·</text>
+<text x="70" y="332.8" class="dots">      .. ···.··.··.                 .·   .····•.      .··.</text>
+<text x="70" y="340" class="dots">       . .····...·                   ··...·····.  .·····</text>
+<text x="70" y="347.2" class="dots">       ...····....                    ··. .··••·.····.</text>
+<text x="70" y="354.40000000000003" class="dots">    .   ·.·•....·                      ..   ·•••···</text>
+<text x="70" y="361.6" class="dots">     .. .····..·.                       ..  ··••·•..</text>
+<text x="70" y="368.8" class="dots">         .··..·.                         ...···••···...</text>
+<text x="70" y="376" class="dots">  ·   ....··...             ..    .        ····••..     .</text>
+<text x="70" y="383.2" class="dots">       .····..               .····....    .··.·•···.     .</text>
+<text x="70" y="390.40000000000003" class="dots">          ·...                .······     .·· ·•·            .</text>
+<text x="70" y="397.6" class="dots">          ..                   .····.   ...··  ··           .·</text>
+<text x="70" y="404.8" class="dots">                                  .   ..  .·.  ··          ..</text>
+<text x="70" y="412" class="dots">                                     .    ..   ·..        ...</text>
+<text x="70" y="419.2" class="dots">           ..         ..            ..   ...               .</text>
+<text x="70" y="426.40000000000003" class="dots">           ··.                      ...  ..              . .</text>
+<text x="70" y="433.6" class="dots">           ...                      ..   ..</text>
+<text x="70" y="440.8" class="dots">.•·.       .  .       ...               ...</text>
+<text x="70" y="448" class="dots"> ●●•···.... ..  ..                      .·     ···..    ....</text>
+<text x="70" y="455.2" class="dots"> ●•··.··●●●    ...                     ...    ···•●●●●••···</text>
+ </g>
  <path d="M12 386H408" stroke="#66B78B" stroke-opacity=".14"/>
  <text x="16" y="404" class="mono muted" font-size="9">SECURITY / SYSTEMS / SOFTWARE</text>
- </g>
+</g>
 </svg>
