@@ -1,162 +1,153 @@
-<div align="center">
+<p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=mhdsahil1&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=showcase-hero-1" alt="MUHAMMED SAHIL hero visual" />
+</p>
 
-<img src="./hero.svg" width="100%" alt="Muhammed Sahil - Cybersecurity Engineer and Full-Stack Developer"/>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/system-scan?username=mhdsahil1&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=showcase-system-scan-2" alt="MUHAMMED SAHIL system-scan visual" />
+</p>
 
-<br>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=mhdsahil1&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=showcase-projects-3" alt="MUHAMMED SAHIL projects visual" />
+</p>
 
-<a href="https://github.com/mhdsahil1"><img src="https://img.shields.io/badge/GitHub-mhdsahil1-66B78B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/mhdsahil09/"><img src="https://img.shields.io/badge/LinkedIn-mhdsahil09-66B78B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://mhdsahil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-mhdsahil.vercel.app-66B78B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.instagram.com/s4hilzzz_/"><img src="https://img.shields.io/badge/Instagram-s4hilzzz_-66B78B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stack?username=mhdsahil1&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=showcase-stack-4" alt="MUHAMMED SAHIL stack visual" />
+</p>
 
-<br><br>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=mhdsahil1&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=showcase-heatmap-5" alt="MUHAMMED SAHIL heatmap visual" />
+</p>
 
-<samp>SECURITY · FULL-STACK · SYSTEMS · AI</samp>
+## About
 
-</div>
+I'm **Muhammed Sahil**, a Computer Science student specializing in Cyber Security and a developer working across **cybersecurity, full-stack development, systems, AI, and open-source projects**.
 
----
+- Building security-focused applications and threat-intelligence tools
+- Developing full-stack products with React, Next.js, TypeScript, Python, FastAPI, and MongoDB
+- Exploring low-level systems and operating-system development through **Nyota OS**
+- Building practical software across web, mobile, security, and systems
 
-## about
+## Experience
 
-I'm **Muhammed Sahil**, a Computer Science & Cybersecurity student and developer interested in building software that is useful, inspectable, and occasionally more over-engineered than necessary.
+**CodeAlpha — Cyber Security Intern** · Aug 2026 – Sep 2026
 
-My work sits across **cybersecurity, full-stack development, systems programming, AI, and open-source tooling**.
+- Developed a Python-based Network Intrusion Detection System and Scapy network sniffer to capture and analyze TCP, UDP, and ICMP traffic, with packet filtering, protocol statistics, and PCAP export for Wireshark.
+- Built a Flask application containing intentionally vulnerable code, identified security weaknesses, and developed a hardened version using secure-coding practices.
 
-- Building security-focused applications and threat intelligence workflows
-- Developing full-stack products with React, Next.js, TypeScript, Python, and MongoDB
-- Exploring low-level systems through **Nyota OS**
-- Building practical tools rather than collecting technologies for the sake of a skill list
+**ACMEGRADE × IIT Delhi Rendezvous — Cyber Security Intern** · 2026 – Present
 
----
+- Currently undertaking a cybersecurity internship in collaboration with ACMEGRADE and IIT Delhi Rendezvous; project details and outcomes will be added as the work progresses.
 
-## stack
+## Education
 
-<div align="center">
+- **B.Tech Computer Science (Cyber Security)** — Yenepoya School of Engineering and Technology, Mangalore · Sep 2024 – Present
+- **PUC – PCMB** — Vishwamangala Pre University College, Mangalore · Aug 2022 – Apr 2024
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,fastapi,cpp,linux,docker,mongodb,flutter,dart,git,github&perline=7" alt="Technology stack"/>
+## Projects
 
-<br><br>
+### XEROVA
+**Cybersecurity Threat Intelligence Platform**
 
-<samp>
-CYBERSECURITY · NETWORKING · THREAT INTELLIGENCE · SYSTEMS · FULL-STACK · MOBILE
-</samp>
+An enterprise-oriented threat-intelligence platform for SOC analysts and security researchers, combining multiple security engines and external intelligence sources for IOC investigation, malicious URL analysis, phishing and brand-impersonation detection, and security research workflows.
 
-</div>
+**Stack:** Next.js · React · TypeScript · MongoDB · VirusTotal · AbuseIPDB · Shodan
 
----
+[Repository](https://github.com/mhdsahil1/Xerova) · [Live Demo](https://xerova-lab.vercel.app/)
 
-## projects
+### Zline
+**Real-Time End-to-End Encrypted Communication Platform**
 
-### [XEROVA](https://github.com/mhdsahil1/Xerova)
+A full-stack real-time messaging platform with private and group chat, voice/video calls, group calls, voice messages, media handling, reactions, message editing/deletion, push notifications, and end-to-end encryption.
 
-**Cybersecurity Intelligence Platform**
+**Stack:** Next.js · React · TypeScript · MongoDB · Socket.IO · WebRTC · Auth.js
 
-A security-focused platform for threat intelligence and investigation workflows, bringing IOC analysis and external intelligence sources into a centralized interface.
+[Repository](https://github.com/mhdsahil1/Zline) · [Live Demo](https://zline.vercel.app/)
 
-`Next.js` `React` `TypeScript` `MongoDB` `VirusTotal` `AbuseIPDB` `Shodan`
+### Zestora
+**Full-Stack E-Commerce Platform**
 
-**Live:** [xerova](https://xerova-lab.vercel.app/)
+A full-stack e-commerce application featuring authentication, an admin dashboard, product management, cart and checkout workflows, Razorpay payments, order tracking, inventory management, and cancellation/rollback workflows.
 
----
+**Stack:** Next.js · React · TypeScript · MongoDB · Razorpay
 
-### [Nyota OS](https://github.com/mhdsahil1/Nyota-OS)
+[Repository](https://github.com/mhdsahil1/Zestora)
 
-**Hobby Operating System**
+### Nyota OS
+**Experimental Operating System**
 
-A low-level operating-system project built from the boot process upward, exploring x86 architecture, bootloaders, assembly, C, linking, and emulation.
+An operating-system project built from the boot process upward to explore bootloaders, kernel development, x86 architecture, memory management, hardware interaction, low-level programming, and computer architecture using C and x86 Assembly.
 
-`C` `x86` `NASM` `GCC` `GNU ld` `QEMU` `Linux`
+**Stack:** C · x86 Assembly · NASM · GCC · GNU ld · QEMU · Linux
 
----
+[Repository](https://github.com/mhdsahil1/Nyota-OS)
 
-### [Who Knows!](https://github.com/mhdsahil1/Who_Knows)
+### Who Knows!
+**Mobile-First Party Game**
 
-**Mobile-First Social Deduction Game**
+A Flutter-based party game designed around local pass-and-play gameplay, configurable game modes, word sources, imposter settings, final-guess mechanics, and support for larger groups.
 
-A local pass-and-play imposter game built with Flutter, featuring configurable game modes, word sources, imposter settings, final-guess mechanics, and support for larger groups.
+**Stack:** Flutter · Dart · Android · Web
 
-`Flutter` `Dart` `Android` `Web`
+[Repository](https://github.com/mhdsahil1/Who_Knows)
 
----
-
-### [Zline](https://github.com/mhdsahil1/Zline)
-
-**End-to-End Encrypted Chat**
-
-A real-time communication application focused on private messaging, media, reactions, editing, deletion, and encrypted communication infrastructure.
-
-`Next.js` `React` `TypeScript` `MongoDB` `Socket.IO` `Cryptography`
-
-**Live:** [Zline](https://zline.vercel.app/)
-
----
-
-### BALLON
-
+### BallOn
 **Football Transfer Intelligence & Valuation Engine**
 
-A collaborative project combining football data, a valuation engine, a Python backend, and a modern web frontend to explore player valuation and transfer intelligence.
+An upcoming project combining football data, player valuation, transfer intelligence, a Python backend, and a modern web frontend.
 
-`Python` `FastAPI` `Next.js` `Machine Learning`
+**Stack:** Python · FastAPI · Next.js
 
----
+### Vulnerability Scanner
+**Security Assessment Tool**
 
-<div align="center">
+A security-focused tool for identifying and assessing common application vulnerabilities.
 
-<img src="./radar.svg" width="100%" alt="Skill radar and development priorities"/>
+[Repository](https://github.com/mhdsahil1/Vulnerability-Scanner)
 
-</div>
-
----
-
-## github signals
-
-<div align="center">
-
-<img src="./stats.svg" width="100%" alt="GitHub activity over the last 365 days"/>
-
-<br>
-
-<img src="./langs.svg" width="100%" alt="Most used programming languages"/>
-
-<br>
-
-<img src="./year.svg" width="100%" alt="Yearly contribution activity"/>
-
-</div>
-
----
-
-## currently
+## Technical Focus
 
 ```text
-focus/
-├── cybersecurity
-├── full-stack development
-├── systems
-└── AI
+CYBERSECURITY
+├── Threat Intelligence
+├── Network Security
+├── Vulnerability Assessment
+├── Secure Coding
+└── Security Research
 
-building/
-├── XEROVA
-├── Nyota OS
-├── Who Knows!
-└── other experiments
+FULL-STACK
+├── Next.js / React
+├── TypeScript / JavaScript
+├── Python / FastAPI
+└── MongoDB
 
-principles/
-├── build real things
-├── understand the stack
-└── ship before polishing forever
+SYSTEMS
+├── C
+├── x86 Assembly
+├── Operating Systems
+└── Linux
+
+OTHER
+├── Flutter / Dart
+├── AI
+└── Open Source
 ```
+
+## Currently Building
+
+- **XEROVA** — expanding security intelligence capabilities
+- **Nyota OS** — continuing low-level OS development
+- **Who Knows!** — evolving the mobile game
+- **BallOn** — developing the football intelligence and valuation engine
 
 ---
 
-<div align="center">
+<p align="center">
+<samp>SECURITY · FULL-STACK · SYSTEMS · AI · OPEN SOURCE</samp>
+</p>
 
-<samp>built with code, curiosity, and an unreasonable number of terminal windows.</samp>
-
-<br><br>
-
-<a href="mailto:sahilmuhammed112@gmail.com">sahilmuhammed112@gmail.com</a>
-
-</div>
+<p align="center">
+<a href="https://github.com/mhdsahil1">GitHub</a> ·
+<a href="https://www.linkedin.com/in/mhdsahil09/">LinkedIn</a> ·
+<a href="https://mhdsahil.vercel.app/">Portfolio</a> ·
+<a href="mailto:sahilmuhammed112@gmail.com">Email</a>
+</p>
