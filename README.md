@@ -3,13 +3,13 @@
 <p><sub>AN EDITORIAL PROFILE · MHDSAHIL1</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Muhammed%20Sahil&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Muhammed%20Sahil&mode=dark" width="100%" alt="Muhammed Sahil cinematic profile scene" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Sahil&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Sahil&mode=dark" width="100%" alt="Sahil cinematic profile scene" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Muhammed%20Sahil&v=cinematic-hero-wordmark-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Muhammed%20Sahil&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Muhammed Sahil animated ASCII name" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Sahil&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Sahil&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Sahil animated ASCII name" />
 </picture>
 
 <p><strong>Cybersecurity Engineer &amp; Full-Stack Developer</strong> · Mangalore, India</p>
