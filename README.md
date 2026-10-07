@@ -1,153 +1,132 @@
-<p align="center">
-<img src="https://www.gitskins.com/api/section/hero?username=mhdsahil1&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=showcase-hero-1" alt="MUHAMMED SAHIL hero visual" />
-</p>
+<div align="center">
+
+<p><sub>AN EDITORIAL PROFILE · MHDSAHIL1</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Muhammed%20Sahil&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Muhammed%20Sahil&mode=dark" width="100%" alt="Muhammed Sahil cinematic profile scene" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Muhammed%20Sahil&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Muhammed%20Sahil&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Muhammed Sahil animated ASCII name" />
+</picture>
+
+<p><strong>Cybersecurity Engineer &amp; Full-Stack Developer</strong> · Mangalore, India</p>
+<p>B.Tech CSE (Cyber Security) · Full-Stack · Cybersecurity · Systems · AI</p>
+
+<p><a href="https://github.com/mhdsahil1">GitHub</a> &nbsp;·&nbsp; <a href="https://mhdsahil.vercel.app/">Website</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mhdsahil09/">LinkedIn</a></p>
+</div>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="58%" valign="top"><h2>The point of view</h2><blockquote>Building security-focused software across cybersecurity, full-stack development, systems, and AI.</blockquote><p><sub>Interested in useful products, difficult technical problems, and understanding what happens underneath the abstraction.</sub></p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Cybersecurity Engineer &amp; Full-Stack Developer<br />BASED · Mangalore, India<br />FOCUS · Cybersecurity / Full-Stack / Systems</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>In the current cut</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&items=Cybersecurity%3A%3ACurrent%20focus%7CSystems%3A%3AExploring%20low-level%20engineering%7CFull-Stack%3A%3ABuilding%20practical%20products&v=cinematic-highlights-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&items=Cybersecurity%3A%3ACurrent%20focus%7CSystems%3A%3AExploring%20low-level%20engineering%7CFull-Stack%3A%3ABuilding%20practical%20products&v=cinematic-highlights-2&mode=dark" width="100%" alt="Muhammed Sahil cinematic highlights" />
+</picture>
+
+<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Production palette</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=cinematic-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="Muhammed Sahil animated technology stack" />
+</picture>
+
+<p align="center"><sub>TypeScript · JavaScript · Python · C · C++ · Dart · Assembly · React · Next.js · FastAPI · Flutter · MongoDB · Linux · tools chosen for the work, not the trend</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Featured reel</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&repos=mhdsahil1%2FXerova%2Cmhdsahil1%2FNyota-OS%2Cmhdsahil1%2FZline%2Cmhdsahil1%2FZestora&v=cinematic-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&repos=mhdsahil1%2FXerova%2Cmhdsahil1%2FNyota-OS%2Cmhdsahil1%2FZline%2Cmhdsahil1%2FZestora&v=cinematic-projects-2&mode=dark" width="100%" alt="Muhammed Sahil cinematic project reel" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/mhdsahil1/Xerova">XEROVA</a></strong></p><p>Cybersecurity threat-intelligence platform for IOC investigation, malicious URL analysis, phishing and brand-impersonation detection, and security research workflows.</p><p><sub>TypeScript · Next.js · MongoDB</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/mhdsahil1/Nyota-OS">Nyota OS</a></strong></p><p>Experimental operating system exploring bootloaders, x86 architecture, kernel development, memory, hardware interaction, C, and x86 Assembly.</p><p><sub>C · Assembly · x86 · QEMU</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/mhdsahil1/Zline">Zline</a></strong></p><p>Real-time communication platform with messaging, media, voice/video calls, group calls, reactions, message editing, and end-to-end encryption.</p><p><sub>TypeScript · WebRTC · Socket.IO</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/mhdsahil1/Zestora">Zestora</a></strong></p><p>Full-stack e-commerce platform with authentication, admin dashboard, product management, Razorpay payments, order tracking, inventory, and cancellation workflows.</p><p><sub>TypeScript · Next.js · MongoDB</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Beyond the reel</h2>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/system-scan?username=mhdsahil1&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=showcase-system-scan-2" alt="MUHAMMED SAHIL system-scan visual" />
+<a href="https://github.com/mhdsahil1/Who_Knows"><strong>Who Knows!</strong></a> ·
+<a href="https://github.com/mhdsahil1/Vulnerability-Scanner"><strong>Vulnerability Scanner</strong></a> ·
+<strong>BallOn</strong>
 </p>
 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/projects?username=mhdsahil1&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=showcase-projects-3" alt="MUHAMMED SAHIL projects visual" />
-</p>
+<p align="center"><sub>Mobile games · security tooling · football transfer intelligence</sub></p>
 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/stack?username=mhdsahil1&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=showcase-stack-4" alt="MUHAMMED SAHIL stack visual" />
-</p>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=mhdsahil1&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=showcase-heatmap-5" alt="MUHAMMED SAHIL heatmap visual" />
-</p>
+<h2>Experience</h2>
 
-## About
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<p><strong>CodeAlpha</strong><br /><sub>Cyber Security Intern · Aug 2026 – Sep 2026</sub></p>
+<p>Built a Python-based Network Intrusion Detection System and Scapy network sniffer for TCP, UDP, and ICMP traffic analysis, packet filtering, protocol statistics, and PCAP export.</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>ACMEGRADE × IIT Delhi Rendezvous</strong><br /><sub>Cyber Security Intern · 2026 – Present</sub></p>
+<p>Currently undertaking cybersecurity internship work in collaboration with ACMEGRADE and IIT Delhi Rendezvous.</p>
+</td>
+</tr>
+</table>
 
-I'm **Muhammed Sahil**, a Computer Science student specializing in Cyber Security and a developer working across **cybersecurity, full-stack development, systems, AI, and open-source projects**.
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-- Building security-focused applications and threat-intelligence tools
-- Developing full-stack products with React, Next.js, TypeScript, Python, FastAPI, and MongoDB
-- Exploring low-level systems and operating-system development through **Nyota OS**
-- Building practical software across web, mobile, security, and systems
+<h2>Contribution trail</h2>
 
-## Experience
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Muhammed Sahil contribution snake" />
+</picture>
 
-**CodeAlpha — Cyber Security Intern** · Aug 2026 – Sep 2026
+<h2>Play the next move</h2>
 
-- Developed a Python-based Network Intrusion Detection System and Scapy network sniffer to capture and analyze TCP, UDP, and ICMP traffic, with packet filtering, protocol statistics, and PCAP export for Wireshark.
-- Built a Flask application containing intentionally vulnerable code, identified security weaknesses, and developed a hardened version using secure-coding practices.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Muhammed Sahil animated chess replay" />
+</picture>
 
-**ACMEGRADE × IIT Delhi Rendezvous — Cyber Security Intern** · 2026 – Present
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-- Currently undertaking a cybersecurity internship in collaboration with ACMEGRADE and IIT Delhi Rendezvous; project details and outcomes will be added as the work progresses.
+<div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
 
-## Education
+<h2>Keep the story moving</h2>
 
-- **B.Tech Computer Science (Cyber Security)** — Yenepoya School of Engineering and Technology, Mangalore · Sep 2024 – Present
-- **PUC – PCMB** — Vishwamangala Pre University College, Mangalore · Aug 2022 – Apr 2024
+<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
 
-## Projects
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&website=https%3A%2F%2Fmhdsahil.vercel.app%2F&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&website=https%3A%2F%2Fmhdsahil.vercel.app%2F&mode=dark" width="100%" alt="Muhammed Sahil contact links" />
+</picture>
 
-### XEROVA
-**Cybersecurity Threat Intelligence Platform**
+<p><a href="https://github.com/mhdsahil1">GitHub</a> &nbsp;·&nbsp; <a href="https://mhdsahil.vercel.app/">Website</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mhdsahil09/">LinkedIn</a></p>
 
-An enterprise-oriented threat-intelligence platform for SOC analysts and security researchers, combining multiple security engines and external intelligence sources for IOC investigation, malicious URL analysis, phishing and brand-impersonation detection, and security research workflows.
-
-**Stack:** Next.js · React · TypeScript · MongoDB · VirusTotal · AbuseIPDB · Shodan
-
-[Repository](https://github.com/mhdsahil1/Xerova) · [Live Demo](https://xerova-lab.vercel.app/)
-
-### Zline
-**Real-Time End-to-End Encrypted Communication Platform**
-
-A full-stack real-time messaging platform with private and group chat, voice/video calls, group calls, voice messages, media handling, reactions, message editing/deletion, push notifications, and end-to-end encryption.
-
-**Stack:** Next.js · React · TypeScript · MongoDB · Socket.IO · WebRTC · Auth.js
-
-[Repository](https://github.com/mhdsahil1/Zline) · [Live Demo](https://zline.vercel.app/)
-
-### Zestora
-**Full-Stack E-Commerce Platform**
-
-A full-stack e-commerce application featuring authentication, an admin dashboard, product management, cart and checkout workflows, Razorpay payments, order tracking, inventory management, and cancellation/rollback workflows.
-
-**Stack:** Next.js · React · TypeScript · MongoDB · Razorpay
-
-[Repository](https://github.com/mhdsahil1/Zestora)
-
-### Nyota OS
-**Experimental Operating System**
-
-An operating-system project built from the boot process upward to explore bootloaders, kernel development, x86 architecture, memory management, hardware interaction, low-level programming, and computer architecture using C and x86 Assembly.
-
-**Stack:** C · x86 Assembly · NASM · GCC · GNU ld · QEMU · Linux
-
-[Repository](https://github.com/mhdsahil1/Nyota-OS)
-
-### Who Knows!
-**Mobile-First Party Game**
-
-A Flutter-based party game designed around local pass-and-play gameplay, configurable game modes, word sources, imposter settings, final-guess mechanics, and support for larger groups.
-
-**Stack:** Flutter · Dart · Android · Web
-
-[Repository](https://github.com/mhdsahil1/Who_Knows)
-
-### BallOn
-**Football Transfer Intelligence & Valuation Engine**
-
-An upcoming project combining football data, player valuation, transfer intelligence, a Python backend, and a modern web frontend.
-
-**Stack:** Python · FastAPI · Next.js
-
-### Vulnerability Scanner
-**Security Assessment Tool**
-
-A security-focused tool for identifying and assessing common application vulnerabilities.
-
-[Repository](https://github.com/mhdsahil1/Vulnerability-Scanner)
-
-## Technical Focus
-
-```text
-CYBERSECURITY
-├── Threat Intelligence
-├── Network Security
-├── Vulnerability Assessment
-├── Secure Coding
-└── Security Research
-
-FULL-STACK
-├── Next.js / React
-├── TypeScript / JavaScript
-├── Python / FastAPI
-└── MongoDB
-
-SYSTEMS
-├── C
-├── x86 Assembly
-├── Operating Systems
-└── Linux
-
-OTHER
-├── Flutter / Dart
-├── AI
-└── Open Source
-```
-
-## Currently Building
-
-- **XEROVA** — expanding security intelligence capabilities
-- **Nyota OS** — continuing low-level OS development
-- **Who Knows!** — evolving the mobile game
-- **BallOn** — developing the football intelligence and valuation engine
-
----
-
-<p align="center">
-<samp>SECURITY · FULL-STACK · SYSTEMS · AI · OPEN SOURCE</samp>
-</p>
-
-<p align="center">
-<a href="https://github.com/mhdsahil1">GitHub</a> ·
-<a href="https://www.linkedin.com/in/mhdsahil09/">LinkedIn</a> ·
-<a href="https://mhdsahil.vercel.app/">Portfolio</a> ·
-<a href="mailto:sahilmuhammed112@gmail.com">Email</a>
-</p>
+<p><sub>Muhammed Sahil · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
