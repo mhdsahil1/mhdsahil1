@@ -1,132 +1,115 @@
 <div align="center">
 
-<p><sub>AN EDITORIAL PROFILE · MHDSAHIL1</sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Sahil&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Sahil&mode=dark" width="100%" alt="Sahil cinematic profile scene" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Sahil&v=cinematic-hero-wordmark-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&label=Sahil&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Sahil animated ASCII name" />
-</picture>
-
-<p><strong>Cybersecurity Engineer &amp; Full-Stack Developer</strong> · Mangalore, India</p>
-<p>B.Tech CSE (Cyber Security) · Full-Stack · Cybersecurity · Systems · AI</p>
-
-<p><a href="https://github.com/mhdsahil1">GitHub</a> &nbsp;·&nbsp; <a href="https://mhdsahil.vercel.app/">Website</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mhdsahil09/">LinkedIn</a></p>
-</div>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<table width="100%">
 <tr>
-<td width="58%" valign="top"><h2>The point of view</h2><blockquote>Building security-focused software across cybersecurity, full-stack development, systems, and AI.</blockquote><p><sub>Interested in useful products, difficult technical problems, and understanding what happens underneath the abstraction.</sub></p></td>
-<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Cybersecurity Engineer &amp; Full-Stack Developer<br />BASED · Mangalore, India<br />FOCUS · Cybersecurity / Full-Stack / Systems</sub></p></td>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · mhdsahil1</sub></p>
+<h1>Muhammed Sahil</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>B.Tech CSE (Cyber Security) Student | Frontend Developer | React &amp; JavaScript Enthusiast</p>
+<p><strong>● Building and sharing work in public</strong></p>
+
+<p><a href="https://github.com/mhdsahil1">GitHub</a> &nbsp;·&nbsp; <a href="https://mhdsahil.vercel.app/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/182617926?u=0fa85a91d5d571be161be87eb7a850b7aeddbba8&amp;v=4" width="180" alt="Muhammed Sahil GitHub avatar" />
+</td>
 </tr>
 </table>
+</div>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>In the current cut</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&items=Cybersecurity%3A%3ACurrent%20focus%7CSystems%3A%3AExploring%20low-level%20engineering%7CFull-Stack%3A%3ABuilding%20practical%20products&v=cinematic-highlights-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&items=Cybersecurity%3A%3ACurrent%20focus%7CSystems%3A%3AExploring%20low-level%20engineering%7CFull-Stack%3A%3ABuilding%20practical%20products&v=cinematic-highlights-2&mode=dark" width="100%" alt="Muhammed Sahil cinematic highlights" />
-</picture>
-
-<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>Production palette</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=cinematic-stack-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="Muhammed Sahil animated technology stack" />
-</picture>
-
-<p align="center"><sub>TypeScript · JavaScript · Python · C · C++ · Dart · Assembly · React · Next.js · FastAPI · Flutter · MongoDB · Linux · tools chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>Featured reel</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&repos=mhdsahil1%2FXerova%2Cmhdsahil1%2FNyota-OS%2Cmhdsahil1%2FZline%2Cmhdsahil1%2FZestora&v=cinematic-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&repos=mhdsahil1%2FXerova%2Cmhdsahil1%2FNyota-OS%2Cmhdsahil1%2FZline%2Cmhdsahil1%2FZestora&v=cinematic-projects-2&mode=dark" width="100%" alt="Muhammed Sahil cinematic project reel" />
-</picture>
+<h2>What teams can evaluate quickly</h2>
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/mhdsahil1/Xerova">XEROVA</a></strong></p><p>Cybersecurity threat-intelligence platform for IOC investigation, malicious URL analysis, phishing and brand-impersonation detection, and security research workflows.</p><p><sub>TypeScript · Next.js · MongoDB</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/mhdsahil1/Nyota-OS">Nyota OS</a></strong></p><p>Experimental operating system exploring bootloaders, x86 architecture, kernel development, memory, hardware interaction, C, and x86 Assembly.</p><p><sub>C · Assembly · x86 · QEMU</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/mhdsahil1/Zline">Zline</a></strong></p><p>Real-time communication platform with messaging, media, voice/video calls, group calls, reactions, message editing, and end-to-end encryption.</p><p><sub>TypeScript · WebRTC · Socket.IO</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/mhdsahil1/Zestora">Zestora</a></strong></p><p>Full-stack e-commerce platform with authentication, admin dashboard, product management, Razorpay payments, order tracking, inventory, and cancellation workflows.</p><p><sub>TypeScript · Next.js · MongoDB</sub></p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · C · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>23 repositories · 5 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>241 contributions · 74 active days</p></td>
 </tr>
 </table>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+<p><sub>B.Tech CSE (Cyber Security) Student | Frontend Developer | React &amp; JavaScript Enthusiast</sub></p>
 
-<h2>Beyond the reel</h2>
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>23</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>241</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-<a href="https://github.com/mhdsahil1/Who_Knows"><strong>Who Knows!</strong></a> ·
-<a href="https://github.com/mhdsahil1/Vulnerability-Scanner"><strong>Vulnerability Scanner</strong></a> ·
-<strong>BallOn</strong>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mhdsahil1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fu%3D0fa85a91d5d571be161be87eb7a850b7aeddbba8%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=mhdsahil1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fu%3D0fa85a91d5d571be161be87eb7a850b7aeddbba8%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Muhammed Sahil GitHub proof metrics" />
+</picture>
 </p>
 
-<p align="center"><sub>Mobile games · security tooling · football transfer intelligence</sub></p>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>Experience</h2>
+<h2>Selected work</h2>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-<p><strong>CodeAlpha</strong><br /><sub>Cyber Security Intern · Aug 2026 – Sep 2026</sub></p>
-<p>Built a Python-based Network Intrusion Detection System and Scapy network sniffer for TCP, UDP, and ICMP traffic analysis, packet filtering, protocol statistics, and PCAP export.</p>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mhdsahil1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fu%3D0fa85a91d5d571be161be87eb7a850b7aeddbba8%26v%3D4&repos=mhdsahil1%2FZestora%2Cmhdsahil1%2FZline%2Cmhdsahil1%2FMy-portfolio%2Cmhdsahil1%2FXerova&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=mhdsahil1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fu%3D0fa85a91d5d571be161be87eb7a850b7aeddbba8%26v%3D4&repos=mhdsahil1%2FZestora%2Cmhdsahil1%2FZline%2Cmhdsahil1%2FMy-portfolio%2Cmhdsahil1%2FXerova&v=recruiter-projects-1&mode=dark" width="100%" alt="Muhammed Sahil selected projects" />
+</picture>
 </td>
-<td width="50%" valign="top">
-<p><strong>ACMEGRADE × IIT Delhi Rendezvous</strong><br /><sub>Cyber Security Intern · 2026 – Present</sub></p>
-<p>Currently undertaking cybersecurity internship work in collaboration with ACMEGRADE and IIT Delhi Rendezvous.</p>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/mhdsahil1/Zestora">Zestora</a></h3>
+<p>Full-stack e-commerce platform built with Next.js, MongoDB, NextAuth, and Razorpay featuring admin dashboard, order management, and inventory system.</p>
+<p><sub>TypeScript · ⭐ 4 · 🍴 0</sub></p>
+<p><a href="https://github.com/mhdsahil1/Zestora">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/mhdsahil1/Zline">Zline</a></h3><p>Zline is a real-time chat application built with modern web technologies that enables instant messaging, media sharing, and seamless communication thr</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/mhdsahil1/My-portfolio">My-portfolio</a></h3><p>A modern, responsive portfolio website showcasing projects, technical skills, and professional experience. Built to highlight full-stack development a</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/mhdsahil1/Xerova">Xerova</a></h3><p>XEROVA is a modern cybersecurity intelligence platform designed to help security researchers, students, analysts, and developers investigate digital t</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<h2>Contribution trail</h2>
+<h2>Technical toolkit</h2>
 
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&style=snake&v=cinematic-snake-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Muhammed Sahil contribution snake" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mhdsahil1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fu%3D0fa85a91d5d571be161be87eb7a850b7aeddbba8%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=mhdsahil1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fu%3D0fa85a91d5d571be161be87eb7a850b7aeddbba8%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Muhammed Sahil technology stack" />
 </picture>
+</p>
 
-<h2>Play the next move</h2>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>59% of public code</sub></td>
+<td width="20%" align="center"><strong>C</strong><br /><sub>21% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>Dart</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
 
+<h2>Consistency signal</h2>
+
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=cinematic-chess-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/chess?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Muhammed Sahil animated chess replay" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mhdsahil1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fu%3D0fa85a91d5d571be161be87eb7a850b7aeddbba8%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mhdsahil1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fu%3D0fa85a91d5d571be161be87eb7a850b7aeddbba8%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Muhammed Sahil contribution activity" />
 </picture>
+</p>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+<hr />
 
-<div align="center">
-<p><sub>THE NEXT SCENE</sub></p>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/mhdsahil1">GitHub</a><br /><a href="https://mhdsahil.vercel.app/">Website</a></td>
+</tr>
+</table>
 
-<h2>Keep the story moving</h2>
-
-<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&website=https%3A%2F%2Fmhdsahil.vercel.app%2F&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=mhdsahil1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182617926%3Fv%3D4&website=https%3A%2F%2Fmhdsahil.vercel.app%2F&mode=dark" width="100%" alt="Muhammed Sahil contact links" />
-</picture>
-
-<p><a href="https://github.com/mhdsahil1">GitHub</a> &nbsp;·&nbsp; <a href="https://mhdsahil.vercel.app/">Website</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mhdsahil09/">LinkedIn</a></p>
-
-<p><sub>Muhammed Sahil · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-</div>
+<p align="center"><sub>Muhammed Sahil · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
